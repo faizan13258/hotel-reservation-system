@@ -1,0 +1,13 @@
+# Compiled files
+*.class
+bin/
+out/
+
+# Guests ka private data (naam, phone) upload nahi karna
+bookings.csv
+
+# Run karne par src ke andar ban jane wala duplicate data folder
+src/data/
+
+# Editor files
+.vscode/
